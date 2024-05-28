@@ -71,8 +71,8 @@
   <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="35" alt="codesandbox logo"  />
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" height="35" alt="codesandbox logo"  />
   <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height="35" alt="codesandbox logo"  />
-  <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white" height="35" alt="codesandbox logo"  />
-  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" height="35" alt="codesandbox logo"  /> </br>
+  <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white" height="35" alt="codesandbox logo"  /> </br>
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" height="35" alt="codesandbox logo"  /> 
 </div>
 <hr>
 
