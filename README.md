@@ -77,7 +77,9 @@
 
 ###
 
-- 🔭 I’m currently looking for a job : **Dev Front - UX/UI - Dev Web - Full-Stack - Dev mobile - Design Builder**
+- 🪁 Freelance since 2025, specialized in website creation, upkeep, and maintenance.
+
+- 🔭 Open to job offers for permanent, fixed-term, or consulting positions : **Dev Front - UX/UI - Dev Web - Full-Stack - Dev mobile - Design Builder**
 
 - 🌱 I'm in the process of learning more of **JavaScript, Angular, React**
 
