@@ -91,7 +91,7 @@
 
 - 📇 Linkedin : <a href="https://linkedin.com/in/adrien-le-breton-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrien-le-breton-dev" height="18" width="22" /></a>
 
-- 🌐 Portfolio : <a href="https://adrienlebreton.com" />
+- 🌐 Portfolio : **https://adrienlebreton.com**
 
 <hr>
 
