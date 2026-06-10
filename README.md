@@ -77,7 +77,7 @@
 
 ###
 
-- 🪁 Freelance since 2025, specialized in website creation, upkeep, and maintenance.
+- 🪁 Freelance since 2023, specialized in website creation, upkeep, and maintenance with Wordpress & Framer mostly.
 
 - 🔭 Open to job offers for permanent, fixed-term, or consulting positions : **Dev Front - UX/UI - Dev Web - Full-Stack - Dev mobile - Design Builder**
 
@@ -90,6 +90,8 @@
 - ⚡ Fun fact : **Reflective-free lenses exist thanks to a treamendous butterfly called the Gretta Oto.**
 
 - 📇 Linkedin : <a href="https://linkedin.com/in/adrien-le-breton-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrien-le-breton-dev" height="18" width="22" /></a>
+
+- 🌐 Portfolio : <a href="https://adrienlebreton.com" />
 
 <hr>
 
